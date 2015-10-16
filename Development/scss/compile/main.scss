@@ -4,4 +4,14 @@
 $imgPath:"../images/";
 
 /************************  VARIABLES  ************************/
+@import '../partials/_colors.scss';
+@import '../partials/_borders.scss';
+@import '../partials/_fonts.scss';
+@import '../partials/_sizes.scss';
+@import '../partials/_zindex.scss';
+
+/************************  GLOBALS  ************************/
 @import '../partials/globals.scss';
+
+/************************  PARTS  ************************/
+@import '../partials/header.scss';
