@@ -1,0 +1,1 @@
+$(function(){var n;return(n=function(){return console.log("Let's Party!")})()});
